@@ -1,7 +1,3 @@
-Here’s a **README** for your **Iris Flower Classification Project**:
-
----
-
 # Iris Flower Classification Project
 
 ## Project Overview
